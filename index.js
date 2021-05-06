@@ -35,7 +35,8 @@ const nestedMuppet = {
   nestedJob: 'Host of The Muppet Show',
   nestedPartner: 'Miss Piggy'
 };
-const {song2, song4, nestedJob, nestedPartner} = nestedMuppet;
+const {song2, song4} = nestedMuppet.album.theMuppetMovie;
+const {nestedJob, nestedPartner} = nestedMuppet;
 //const { ham, hotDog } = doggie.favoriteFoods.meats;
 // Strings
 
