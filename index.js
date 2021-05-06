@@ -1,5 +1,6 @@
 const farmAnimals = 'cow horse sheep pig chicken';
 
+const [moo, ai, mee, oink, etc] = farmAnimals.split(' ');
 const colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'];
 
 const muppet = {
