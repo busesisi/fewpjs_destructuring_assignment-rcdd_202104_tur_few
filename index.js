@@ -20,7 +20,7 @@ const muppet = {
   job: 'Cast member of The Muppet Show',
   partner: 'Kermit'
 };
-
+const { muppetName, color, song, job, partner } = muppet;
 const nestedMuppet = {
   nestedName: 'Kermit',
   nestedColor: 'green',
