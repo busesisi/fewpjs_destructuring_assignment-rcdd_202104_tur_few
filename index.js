@@ -8,7 +8,7 @@ const [blackAndWhite, , black, pink, ,] = farmAnimals.split(' ');
 
 
 const colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'];
-
+const [red, orange, yellow, green, blue, indigo, violet] = colors.split(' ');
 const muppet = {
   muppetName: 'Miss Piggy',
   color: 'pink',
